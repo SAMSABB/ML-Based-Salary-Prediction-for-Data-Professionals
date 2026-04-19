@@ -79,4 +79,5 @@ The Random Forest model achieved the best overall performance, with the highest 
 ## 8. Future Improvements
 - Improve feature engineering
 - Use more advanced models (e.g. XGBoost)
+- Categorical features were excluded for simplicity; future work will include encoding
 
